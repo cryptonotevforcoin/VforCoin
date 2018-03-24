@@ -1,2 +1,2 @@
-UTM Final Project
+Project VforCoin
 Contact: cryptovforcoin@gmail.com
